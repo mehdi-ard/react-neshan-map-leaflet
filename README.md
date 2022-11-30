@@ -12,7 +12,7 @@ In the simple case you just need to add `options` prop to `NeshanMap` component 
 
 ```javascript
 import React from 'react';
-import NeshanMap from 'react-neshan-map-leaflet'
+import NeshanMap from 'neshan-map'
 
 import './SimpleMap.css';
 
@@ -39,7 +39,7 @@ export default SimpleMap;
 
 npm:
 ```
-npm i react-neshan-map-leaflet
+npm i neshan-map
 ```
 
 ## Features
