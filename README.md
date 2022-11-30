@@ -1,3 +1,5 @@
+### This package is forked from the original package to convert to typescript
+
 # ⚛️ React component for 🍃 Neshan Leaflet map.
 
 ### Developed by [Neshan Maps Platform team](https://platform.neshan.org).
